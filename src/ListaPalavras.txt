@@ -1,0 +1,298 @@
+A/B testing
+accuracy
+activation function
+active learning
+AdaGrad
+agent
+agglomerative clustering
+anomaly detection
+area under the PR curve
+area under the ROC curve
+artificial general intelligence
+attribute
+Area under the ROC Curve
+augmented reality
+automation bias 
+average precision 
+backpropagation
+bag of words
+baseline
+batch
+batch normalization
+batch size
+Bayesian neural network
+Bayesian optimization
+Bellman equation
+fairness
+bidirectional
+bidirectional language model
+binary classification
+binning
+bounding box
+broadcasting
+bucketing
+calibration layer
+candidate generation
+candidate sampling
+categorical data
+causal language model
+centroid
+centroid-based clustering
+classification model
+classification threshold
+clustering
+collaborative filtering
+confirmation bias 
+confusion matrix
+convenience sampling
+convergence
+convex function
+convolutional filter
+convolutional layer
+counterfactual
+coverage bias 
+crash blossom
+dataset
+decision threshold
+dense feature
+dense layer
+depth
+discriminator
+disparate impact
+disparate treatment
+downsampling
+DQN
+dropout regularization
+dynamic model
+early stopping
+earth mover's distance
+encoder
+ensemble
+environment
+equality of opportunity 
+false negative
+false negative rate
+false positive
+false positive rate
+feature
+feature cross
+feature engineering
+feature set
+feature spec
+feature vector
+federated learning
+feedback loop
+feedforward neural network
+few-shot learning
+fine tuning
+forget gate
+full softmax
+fully connected layer
+GAN
+generalization
+generalization curve
+generalized linear model
+generative adversarial network
+generative model
+generator
+GPT
+Generative Pre-trained Transformer
+gradient
+group attribution bias 
+hashing
+heuristic
+hidden layer
+holdout data
+hyperparameter
+hyperplane
+image recognition
+implicit bias 
+incompatibility of fairness metrics
+individual fairness
+inference
+in-group bias 
+input layer
+interpretability
+inter-rater agreement
+intersection over union
+iteration
+Support Vector Machines
+SVM
+k-means
+loss
+regularization
+loss
+regularization
+layer
+learning rate
+least squares regression
+linear model
+log-odds
+Long Short-Term Memory
+LSTM
+machine learning
+majority class
+Markov decision process
+matplotlib
+matrix factorization
+Mean Absolute Error
+Mean Squared Error
+metric
+meta-learning
+metrics
+mini-batch
+mini-batch stochastic gradient descent
+minimax loss
+minority class
+MNIST
+modality
+model
+model capacity
+model parallelism
+model training
+Momentum
+multi-class classification
+multi-class logistic regression
+multi-head self-attention
+multimodal model
+multinomial classification
+multinomial regression
+NaN trap
+natural language understanding
+negative class
+neural network
+neuron
+N-gram
+NLU
+noise
+non-response bias 
+nonstationarity
+normalization
+novelty detection
+numerical data
+NumPy
+objective
+objective function
+offline inference
+one-hot encoding
+one-shot learning
+online inference
+optimizer
+out-group homogeneity bias 
+outlier detection
+outliers
+output layer
+overfitting
+oversampling
+parameter
+partial derivative
+participation bias
+partitioning strategy
+perceptron
+performance
+pipeline
+pooling
+positive class
+prediction
+prediction bias
+predictive parity
+predictive rate parity
+preprocessing
+pre-trained model
+prior belief
+probabilistic regression model
+proxy
+Q-function
+Q-learning
+random policy
+rank
+recall
+recommendation system
+Rectified Linear Unit
+ReLU
+recurrent neural network 
+regression model
+regularization
+representation
+re-ranking
+reward
+ridge regularization
+RNN
+ROC Curve
+Root Mean Squared Error
+RMSE
+rotational invariance
+sampling bias 
+SavedModel
+Saver
+scaling
+scikit-learn
+scoring
+selection bias 
+self-supervised learning
+self-training
+semi-supervised learning
+sensitive attribute
+sentiment analysis
+sequence model
+sequence-to-sequence task
+serving
+sigmoid function
+similarity measure
+size invariance
+sketching
+softmax
+sparse feature
+sparse representation
+sparse vector
+sparsity
+spatial pooling
+squared hinge loss
+squared loss
+staged training
+state
+state-action value function
+static model
+stationarity
+step
+step size
+stochastic gradient descent
+stride
+structural risk minimization
+subsampling
+supervised machine learning
+synthetic feature
+tabular Q-learning
+target
+target network
+temporal data
+Tensor
+TensorBoard
+TensorFlow
+termination condition
+keras
+time series
+TPU
+training
+trajectory
+transfer learning
+Transformer
+translational invariance
+trigram
+true negative
+true positive rate
+underfitting
+undersampling
+unidirectional
+unidirectional language model
+unlabeled example
+unsupervised machine learning
+upweighting
+user matrix
+validation
+validation set
+vanishing gradient problem
+Wasserstein loss
+Weighted Alternating Least Squares
+wide model
+word embedding
